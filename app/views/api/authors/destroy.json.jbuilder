@@ -1,0 +1,1 @@
+json.message "This author has been removed from the library database."
